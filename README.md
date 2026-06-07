@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Commander Electronics Ecommerce
 
 A modern, responsive ecommerce platform for electronics retail built with Next.js, Tailwind CSS, Supabase, and Paystack.
@@ -30,3 +31,4 @@ A modern, responsive ecommerce platform for electronics retail built with Next.j
 ## Project Goal
 
 Deliver a fast, scalable, and modern electronics ecommerce experience with a clean administrative workflow for managing products, orders, and customer interactions.
+=======
